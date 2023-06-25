@@ -1,4 +1,6 @@
 # AC4C
+Author:Jiawen Li(Spike8086)
+
 This Repository cotains the complete code of Paper 
 Improving Representational Ability in N4-acetylcytidine (AC4C) Dataset using ResVariant.
 
@@ -9,5 +11,5 @@ The same version had already been uploaded in Kaggle: https://www.kaggle.com/cod
 
 This AC4C repository also provides the copy of the dataset in data folders if you wanna to change the path and test in local environment.
 
-Jiawen Li(Spike8086)
+
 © 2023 Jiawen Li. All rights reserved.
